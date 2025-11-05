@@ -61,10 +61,6 @@ Standard Fields
 Custom Fields 
 Standard Fields: 
 As the name suggests, the Standard Fields are the predefined fields in Salesforce that perform a standard task. The main point is that you can’t simply delete a Standard Field until it is a non-required standard field. Otherwise, users have the option to delete them at any point from the application freely. Moreover, we have some fields that you will find common in every Salesforce application. They are, 
->> Created By 
->> Owner 
->> Last Modified
->> Field Made During object Creation 
 Custom Fields: 
 On the other side of the coin, Custom Fields are highly flexible, and users can change them according to requirements. Moreover, each organiser or company can use them if necessary. It means you need not always include them in the records, unlike Standard fields. Hence, the final decision depends on the user, and he can add/remove Custom Fields of any given form.
 # Profiles
