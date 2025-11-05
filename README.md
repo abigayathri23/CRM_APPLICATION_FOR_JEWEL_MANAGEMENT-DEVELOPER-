@@ -79,8 +79,33 @@ Each of these standard ones includes a default set of permissions for all of the
 Custom Profiles: 
 Custom ones defined by us. 
 They can be deleted if there are no users assigned with that particular one.
+# Roles
+A role in Salesforce defines a user's visibility access at the record level. Roles may be used to specify the types of access that people in your Salesforce organisation can have to data. Simply put, it describes what a user could see within the Salesforce organisation.
+# User 
+A user is anyone who logs in to Salesforce. Users are employees at your company, such as sales reps, managers, and IT specialists, who need access to the company's records. Every user in Salesforce has a user account. The user account identifies the user, and the user account settings determine what features and records the user can access.
 
+# Page layouts
+Page Layout in Salesforce allows us to customise the design and organise detail and edit pages of records in Salesforce. Page layouts can be used to control the appearance of fields, related lists, and custom links on standard and custom objects' detail and edit pages.
+# Record Types
+Record Types are a way of grouping many records of one type for that object. These can be applied to any standard or custom object, and allow you to have a different page layout, fields, required fields, and picklist values. Record types allow administrators to create a different page layout with custom picklist fields and values for the same business process and various business processes.
+# Permission sets
+A standard permission set consists of a group of common permissions for a particular feature associated with a permission set licence. Using a standard permission set saves you time and facilitates administration because you don't need to create the custom permission set.
+# Reports
+Reports give you access to your Salesforce data. You can examine your Salesforce data in almost infinite combinations, display it in easy-to-understand formats, and share the resulting insights with others. Before building, reading, and sharing reports, review these reporting basics. 
 
+Types of Reports in Salesforce 
+
+Tabular 
+
+Summary 
+
+Matrix 
+
+Joined Reports 
+# Dashboards
+Dashboards help you visually understand changing business conditions so you can make decisions based on the real-time data you’ve gathered with reports. Use dashboards to help users identify trends, sort out quantities, and measure the impact of their activities. Before building, reading, and sharing dashboards, review these dashboard basics.
+# Flows
+In Salesforce, a flow is a powerful tool that allows you to automate business processes, collect and update data, and guide users through a series of screens or steps. Flows are built using a visual interface and can be created without any coding knowledge.
 
 
 
